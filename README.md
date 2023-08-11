@@ -60,4 +60,4 @@ Run ```npm install``` to install any dependencies.
 * Intermediate Phase 3: Dynamically add `Employee`s to a `Manager`'s employee
 array
 * Advanced Phase 4: Calculate Bonuses
-* Bonus Phase 5: Local Testing
+* Bonus Phase 5: Local Testing# class-practice-1
